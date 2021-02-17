@@ -1,0 +1,10 @@
+Variables: Una variable es un lugarcito que hacemos en la memoria de la computadora para poder guardar informacion, ya sean numeros, palabras, letras o simbolos.
+
+Strings: Los strings son un tipo de variables, significa 'cuerdas' en inglés, y son como una cuerda o seguidilla de letras, numeros, espacios o símbolos uno al lado del otro para formar oraciones o palabras.
+
+Funciones: Las funciones son pedacitos de código que se pueden usar las veces que quieras para obtener algún resultado. Los resultados se devuelven con la palabra return, la cual es la única forma de que el resultado pueda guardarse en otra variable luego y además corta la función.
+Las funciones pueden tener argumentos, que son variables las cuales se usan como parte de la lógica interna de la funcion, pero se le asigna un valor solamente cuando llamamos a la función para usarla.
+
+If: Podemos pensar en la declaración if como si dijeramos "si esto es verdad, hago lo siguiente, y sino, hago esto otro".
+
+Valores Booleanos: Los valores booleanos son una forma de corroborar si algo es verdadero o falso lógicamente. Todos sabemos que 2 + 2 es igual a 4, entonces sabemos que el valor booleano que tiene esa expresión es true. Pero si la expresión es 2+2=5, entonces el valor booleano de esta es false.
