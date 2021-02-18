@@ -1,0 +1,5 @@
+For: es una expresión que crea un bucle que consiste en tres expresiones opcionales encerradas entre paréntesis y separadas por comas, seguidas de un bloque de código el cual se va a ejecutar en bucle hasta cumplir las condiciones dictadas por las expresiones previamente dictadas.
+&&, ||, !: Estos ímbolos son operadores lógicos, los cuales aceptan dos valores booleanos, uno antes y uno después, los compara y retorna si la condición es verdadera o falsa.
+En el caso de "&&", es el operador "AND", y lo usamos en caso de querer comprobar que la primer expresión Y TAMBIÉN la siguiente son verdaderas, caso contrario retorna falso.
+"||" es el operador "OR", se usa en caso de que AL MENOS UNA de las dos expresiones sea verdadera. En caso de que las dos sean falsas, retorna false.
+"!" es el operador "NOT", este operador devuelve el valor contrario a la veracidad de la expresión. Por ejemplo, !(1==1) retornará false, y !(1==2) retornará true.
