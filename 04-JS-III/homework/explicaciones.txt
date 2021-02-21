@@ -1,0 +1,2 @@
+Arrays: los arreglos son una colección de elementos, que pueden ser cualquier tipo de dato como numeros, letras, Strings, valores booleanos y hasta funciones.
+Cada elemento de los arreglos tienen un índice con el cual nosotros podemos hacer referencia y utilizar para navegar entre los elementos del arreglo. 
