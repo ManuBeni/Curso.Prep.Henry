@@ -1,0 +1,11 @@
+Objetos: Los objetos son una colección de propiedades, las cuales son conformadas por un nombre (o key) y un valor (o value). Todo en javascript esta conformado por objetos.
+
+Propiedades: Las propiedades son la asociación entre nombre y valor, las cuales pueden ser tanto numeros, caracteres y strings tanto como arreglos, funciones y objetos.
+
+Métodos: los métodos son las propiedades que como valor tienen una función, acarrean este nombre de otros lenguajes como java, en los cuales la división entre método y propiedad en un objeto son más claras y marcadas
+
+For In: Los bucles "for ... in" son la manera de iterar sobre objetos con índices no numéricos, a diferencia de los arreglos, los cualen poseen solamente índices numéricos.
+Dentro de los paréntesis donde normalmente tendríamos a sintaxis común del loop "for" (var i=0;i<x;i++), se declara una variable para apuntar a las propiedades dentro del objeto en cada iteración. Luego se coloca la palabra reservada "in" y el nombre del objeto o referencia al objeto.
+
+Notación de puntos vs notación de corchetes: La notación con punto se puede usar para obtener el valor dentro de la propiedad escrita, sea cual fuere su contenido.
+Con la notación de corchetes tenemos la posibilidad de poder usar un String, numero o variable para poder ingresar al contenido deseado, dando lugar a ventajas a la hora de trabajar con argumentos o números.
