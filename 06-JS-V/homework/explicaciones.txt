@@ -1,0 +1,4 @@
+Prototype: Todo en javascript son objetos, y estos objetos pueden ser moldeados por las clases (por default la clase Objeto).
+Prototype es una propiedad de estas clases que contiene todas las funciones que luego podemos establecer en los métodos, y podemos definirlas o usar los métodos ya definidos en todos los objetos creados a partir de esa Clase.
+
+Constructor: El constructor es un método especial de las Clases para poder crear e inicializar un objeto creado a partir de ellas. Solo puede haber un constructor en cada clase, y si no se especifica, se utiliza un constructor predeterminado.
