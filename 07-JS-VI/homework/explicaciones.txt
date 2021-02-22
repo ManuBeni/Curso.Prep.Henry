@@ -1,0 +1,2 @@
+Callbacks: Se denomina callbacks a las funciones pasadas como argumentos en otras funciones.
+Los métodos de orden superior en los arrays hacen uso de estas funciones como argumentos.
