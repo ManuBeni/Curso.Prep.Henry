@@ -1,0 +1,41 @@
+*{
+  max-width: 500px;
+  margin: 10px auto;
+}
+body{
+  background: black url("./img/31.jpg") no-repeat fixed;
+  background-size: cover;
+}
+
+div{
+  max-width: 500px;
+}
+
+h1{
+  color: blue;
+}
+
+img{
+  width: 400px;
+}
+
+#thirdDiv{
+  height: 600px;
+  width: 500px;
+  background-color: black;
+  padding: 50px;
+  border: 2px solid black;
+}
+
+.box{
+  background-color:rgba(255,255,255, 0.5);
+  display: flex;
+  align-items: center;
+  flex-flow: column nowrap;
+  justify-content: center;
+}
+
+.spanId{
+  font-size: 18px;
+  margin: 50px;
+}
